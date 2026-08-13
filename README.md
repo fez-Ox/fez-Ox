@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I'm a 3rd Year Computer Science Undergraduate at FAST NUCES Islamabad.
+- 🔭 I'm a 4th Year Computer Science Undergraduate at FAST NUCES Islamabad.
 - Passionate about learning and evolving as a problem solver, I continuously find myself trying to learn newer and more efficient ways to think about problems.
 - Apart from college-related semester projects like a working implementation of Git from scratch, and Cuda-parallelized implementation of the KLT Feature Tracker, I'm currently also working on a RISC-V Implementation of a CNN (currently on hold due to exams).
 
